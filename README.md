@@ -1,3 +1,21 @@
+# BIOMD0000000319: decroly82
+
+## Installation
+
+Download this repository, and install with distutils
+
+`python setup.py install`
+
+Or, install using pip
+
+`pip install git+https://github.com/biomodels/BIOMD0000000319.git`
+
+To install a specific version (in this example, from the 2014-09-16 BioModels release)
+
+`pip install git+https://github.com/biomodels/BIOMD0000000319.git@20140916`
+
+
+# Model Notes
 
 
 This is the scaled model described in the article:  
@@ -24,4 +42,5 @@ stoichiometric coefficients of beta and gamma in the reactions r2 and r3,
 respectively. Parameter values and initial conditions [ks=1.99/sec,
 alpha(0)=29.19988, beta(0)=188.8, gamma(0)=0.3367] are for the chaotic regime
 presented in the upper-curve of Figure 3b.
+
 
